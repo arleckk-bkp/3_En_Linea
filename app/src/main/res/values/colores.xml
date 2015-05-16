@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="android:navigationBarColor">#283593</color>
+    <color name="android:colorPrimaryDark">#283593</color>
+    <color name="casillas">#d50000</color>
+
+</resources>
